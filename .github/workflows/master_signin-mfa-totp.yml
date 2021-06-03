@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'signin-mfa-totp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_99578771ade74b6a8ed338580f40c170 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_968ff4f08d39401bbe01243eb5f0d9b9 }}
         package: .
